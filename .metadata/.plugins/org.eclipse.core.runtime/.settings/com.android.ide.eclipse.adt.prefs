@@ -1,0 +1,5 @@
+com.android.ide.eclipse.adt.fixLegacyEditors=1
+com.android.ide.eclipse.adt.sdk=/home/jerusalem/android-sdk-linux
+design.structure.flyout.dockLocation=4
+design.structure.flyout.width=203
+eclipse.preferences.version=1
