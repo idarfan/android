@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">撰写Ch05app2me程序</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tvPtName">姓名</string>
+    <string name="tvPtSex">性别</string>
+    <string name="btPtSure">确定</string>
+
+</resources>
